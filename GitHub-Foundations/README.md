@@ -39,14 +39,9 @@ Introduction to automating development workflows using **GitHub Actions**, enabl
 Best practices for protecting your code, handling secrets, managing access permissions, and addressing vulnerabilities in dependencies.
 
 ## Purpose of the Program
+![Certificate](https://github.com/user-attachments/assets/15b51785-7409-49cc-a56c-0b475948eaa8)
 
-GitHub Foundations is designed to make the power of Git and GitHub accessible to new developers and foster open collaboration in software projects.
 
----
-
-> This program is ideal for beginners who want to dive into the world of collaborative development and learn the foundations of version control!
-
-## Additional Resources
 
 - [Official Git Documentation](https://git-scm.com/doc)
 - [Official GitHub Documentation](https://docs.github.com/)
