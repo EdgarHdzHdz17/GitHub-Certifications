@@ -49,7 +49,7 @@
 
 - **Repository management**: Efficiently manage GitHub repositories for teams.
 - **Workflow optimization**: Improve collaboration and process efficiency in projects.
-- **Effective collaboration**: Ensure smooth and productive teamwork within GitHub.
+- **Effective collaboration**: Ensure smooth and productive teamwork within GitHub Company.
 
 ---
 ![GitHub-Program](https://github.com/user-attachments/assets/ec07d1f9-0d3b-4d39-93c4-cfb6264c5dab)
