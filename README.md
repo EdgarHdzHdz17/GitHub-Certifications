@@ -6,7 +6,7 @@
 
 ## 📜 GitHub Fundamentals Certification
 
-<p style="text-align: justify;">The **GitHub Fundamentals Certification** highlights your understanding of the core topics and concepts related to collaboration, contribution, and working with GitHub.</p>
+<p style="text-align: justify;">The GitHub Fundamentals Certification highlights your understanding of the core topics and concepts related to collaboration, contribution, and working with GitHub.</p>
 
 ### This certification exam covers:
 
@@ -15,9 +15,23 @@
 - **Git Basics**: Understand the fundamental Git commands and workflows.
 - **Working within GitHub repositories**: Manage branches, pull requests, and issues efficiently.
 
+---
+
+## 🚀 GitHub Actions Certification
+
+<p style="text-align: justify;">Certify your competency in automating workflows and accelerating development with <strong>GitHub Actions</strong>. This certification demonstrates your ability to streamline processes and improve efficiency.</p>
+
+### This exam covers:
+
+- **Simplifying workflows**: Learn to automate repetitive processes.
+- **Automating tasks**: Master the automation of complex tasks across development pipelines.
+- **Optimizing software pipelines**: Enhance the speed and efficiency of software development cycles.
+
+---
+
 ## 🔐 GitHub Advanced Security Certification
 
-<p style="text-align: justify;">Showcase your code security expertise with the **GitHub Advanced Security** certification. This exam validates your skills in securing codebases and ensuring a safe development environment.</p>
+<p style="text-align: justify;">Showcase your code security expertise with the <strong>GitHub Advanced Security</strong> certification. This exam validates your skills in securing codebases and ensuring a safe development environment.</p>
 
 ### This exam covers:
 
@@ -29,7 +43,7 @@
 
 ## 🛠️ GitHub Administration Certification
 
-<p style="text-align: justify;">Earn the **GitHub Administration Certification** to demonstrate your proficiency in optimizing and managing GitHub environments effectively. This certification confirms your ability to oversee and maintain a productive GitHub ecosystem.</p>
+<p style="text-align: justify;">Earn the <strong>GitHub Administration Certification</strong> to demonstrate your proficiency in optimizing and managing GitHub environments effectively. This certification confirms your ability to oversee and maintain a productive GitHub ecosystem.</p>
 
 ### This exam covers:
 
