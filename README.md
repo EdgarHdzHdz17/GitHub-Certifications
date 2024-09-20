@@ -1,12 +1,12 @@
 # 🌟 GitHub Certifications
 
-**With GitHub Certifications**, you can showcase your expertise in GitHub technologies and workflows. Earning a GitHub Certification gives you a competitive advantage in the job market by allowing you to promote your skills in a specific GitHub domain.
+<p style="text-align: justify;"><strong>With GitHub Certifications</strong>, you can showcase your expertise in GitHub technologies and workflows. Earning a GitHub Certification gives you a competitive advantage in the job market by allowing you to promote your skills in a specific GitHub domain.</p>
 
 ---
 
 ## 📜 GitHub Fundamentals Certification
 
-<p style="text-align: justify;">The GitHub Fundamentals Certification highlights your understanding of the core topics and concepts related to collaboration, contribution, and working with GitHub.</p>
+<p style="text-align: justify;">The <strong>GitHub Fundamentals Certification</strong> highlights your understanding of the core topics and concepts related to collaboration, contribution, and working with GitHub.</p>
 
 ### This certification exam covers:
 
