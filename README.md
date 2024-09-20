@@ -1,0 +1,1 @@
+Con GitHub Certifications, puede presentar su experiencia en las tecnologías y flujos de trabajo de GitHub. La obtención de un GitHub Certification le ofrece una ventaja competitiva en el mercado de trabajo al permitirle promover sus capacidades en un dominio específico de GitHub.
