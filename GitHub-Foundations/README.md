@@ -38,7 +38,7 @@ Introduction to automating development workflows using **GitHub Actions**, enabl
 
 Best practices for protecting your code, handling secrets, managing access permissions, and addressing vulnerabilities in dependencies.
 
-## Purpose of the Program
+## Certification
 
 ![Certificate](https://github.com/user-attachments/assets/15b51785-7409-49cc-a56c-0b475948eaa8)
 
