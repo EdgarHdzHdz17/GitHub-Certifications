@@ -2,7 +2,7 @@
 
 GitHub Foundations is a learning program powered by GitHub, designed to introduce and develop fundamental skills in using Git and GitHub. This program is focused on individuals who want to learn the basics of version control and collaboration in software development, regardless of their level of technical experience.
 
-## Key Topics Covered
+## Key Topics
 
 ### 1. Git Basics
 
